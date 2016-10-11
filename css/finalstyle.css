@@ -1,0 +1,23 @@
+body {
+  background-color: #452801;
+}
+h1, h2 {
+  text-align: center;
+}
+h1 {
+  color: #39ff02;
+}
+h2 {
+  color: #af240d;
+}
+ul {
+  list-style: inside circle;
+  width: 500px;
+}
+p {
+  font-family: fantasy;
+  font-size: 18px;
+}
+img {
+  width: 300px;
+}
